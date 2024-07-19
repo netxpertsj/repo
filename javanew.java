@@ -4,3 +4,4 @@ char myLetter = 'D';         // Character
 boolean myBool = true;       // Boolean
 String myText = "Hello";     // String
 boolean isJavaFun = true;
+System.out.println("20 is greater than 18");
